@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://nciv1mnxam7h" path="res://button.gd" id="1_x8rqh"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_po0fc"]
-bg_color = Color(0.26666668, 0.6745098, 1, 1)
+bg_color = Color(0.83137256, 0, 0.8666667, 1)
 
 [node name="Control" type="Control" unique_id=1164003678]
 layout_mode = 3
@@ -36,7 +36,7 @@ offset_right = 260.5
 offset_bottom = -106.0
 grow_horizontal = 2
 grow_vertical = 2
-theme_override_colors/font_color = Color(1, 1, 0.23137255, 1)
+theme_override_colors/font_color = Color(1, 1, 1, 1)
 theme_override_font_sizes/font_size = 75
 text = "Cat Adventure"
 
